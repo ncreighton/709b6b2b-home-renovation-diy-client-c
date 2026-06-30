@@ -1,2 +1,28 @@
-# 709b6b2b-home-renovation-diy-client-c
-Professional home renovation Notion template — without the professional price tag.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Home Renovation &amp; Diy Client Crm And Pipeline — fully configured and ready to use - Pre-built
+# Home Renovation & DIY Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM00j4ePf6Q3lmdI0cZD3I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM00j4ePf6Q3lmdI0cZD3I)
+
